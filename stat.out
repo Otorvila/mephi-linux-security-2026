@@ -1,0 +1,16 @@
+  File: ./cat
+  Size: 48144     	Blocks: 96         IO Block: 4096   regular file
+Device: 8,1	Inode: 1747522     Links: 1
+Access: (4755/-rwsr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2026-10-05 13:14:30.856079670 -0400
+Modify: 2026-10-05 13:13:17.275306638 -0400
+Change: 2026-10-05 13:13:54.217769151 -0400
+ Birth: 2026-10-05 13:13:17.275306638 -0400
+  File: chownn
+  Size: 76880     	Blocks: 152        IO Block: 4096   regular file
+Device: 8,1	Inode: 1747524     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/    kali)   Gid: ( 1000/    kali)
+Access: 2026-10-05 13:18:13.459328791 -0400
+Modify: 2026-10-05 13:16:21.795523225 -0400
+Change: 2026-10-05 13:16:54.595915682 -0400
+ Birth: 2026-10-05 13:16:21.795523225 -0400
